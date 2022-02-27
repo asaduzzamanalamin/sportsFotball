@@ -2,3 +2,13 @@
    color:white;
    background-color:cyan ;
 }
+#male{
+   display:none;
+}
+#female{
+   
+   display:none;
+}
+#spinner{
+   display: none;
+}
